@@ -1,0 +1,78 @@
+/*CSS Sports Store
+Matt Strand
+2/19/2018*/
+
+body{
+    /*https://pixabay.com/en/sports-athletics-collage-baseball-150518/ */
+    background: url("sportsBG.png") no-repeat scroll center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table{
+    margin-left: 300px;
+    padding: 10px;
+    min-width: 400px;
+    background:rgba(200,200,200,.9);
+}
+
+td{
+    padding: 7px;
+}
+
+form{
+    min-width: 200px;
+    padding: 18px;
+    padding-right: 25px;
+    color:white;
+    max-width: 800px;
+}
+
+input{
+    border-style:groove;
+    border-color: rgb(50,50,50);
+    width: 98%;
+    font-color:black;
+}
+.navbar{
+    width: 98%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    width: 100%;
+}
+
+.sidenav {
+    background-color: rgb(34,34,34);
+    width: 15%;
+    height: 600px;
+    position: absolute;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    float: left;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.container > div {
+    float: left;
+}
+
+p{
+    color: rgb(134,134,134);
+}
+
+#white{
+    padding-left: 10px;
+}
