@@ -3,17 +3,16 @@
 <head>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="sportStoreCSS.css">
-
+	<title>The Sports Fan</title>
 </head>
 <body>
 	<header>
 		<nav class="navbar navbar-inverse">
 			<div class="container-fluid">
 			    <div class="navbar-header">
-			    	<a href="#" class="navbar-left"><img src="sportStoreLogo.png" alt="Logo"></a>
+			    	<a href="index.php" class="navbar-left"><img src="sportStoreLogo.png" alt="Logo"></a>
 			    </div>
 			    <ul class="nav navbar-nav navbar-right" style="padding-top: 20px; padding-right: 4px;">
-			      <li><a href="index.php">Home</a></li>
 			      <li><a href="problemSet1a.php">Problem Set 1</a></li>
 			      <li class="active"><a href="problemSet2a.php">Problem Set 2</a></li>
 			      <li><a href="problemSet3a.php">Problem Set 3</a></li>

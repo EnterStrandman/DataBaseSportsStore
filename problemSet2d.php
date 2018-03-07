@@ -3,7 +3,7 @@
 <head>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="sportStoreCSS.css">
-
+	<title>The Sports Fan</title>
 </head>
 <body>
 	<header>
@@ -13,7 +13,6 @@
 			    	<a href="#" class="navbar-left"><img src="sportStoreLogo.png" alt="Logo"></a>
 			    </div>
 			    <ul class="nav navbar-nav navbar-right" style="padding-top: 20px; padding-right: 4px;">
-			      <li><a href="index.php">Home</a></li>
 			      <li><a href="problemSet1a.php">Problem Set 1</a></li>
 			      <li class="active"><a href="problemSet2a.php">Problem Set 2</a></li>
 			      <li><a href="problemSet3a.php">Problem Set 3</a></li>
@@ -25,7 +24,7 @@
 	<div class="container">
 		<div class="col-2">
 			<div class="sidenav">
-					<a href="problemSet2a.php">2a</a>
+				<a href="problemSet2a.php">2a</a>
 				<a href="problemSet2b.php">2b</a>
 				<a href="problemSet2c.php">2c</a>
 				<a href="problemSet2d.php">2d</a>
